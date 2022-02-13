@@ -109764,6 +109764,23 @@
     },
     {
       "chainId": 101,
+      "address": "GSBCr3LLkfMu99iJhiwERFdWzuFArqoV93og13pWc9mX",
+      "symbol": "LXCD",
+      "name": "LEX CLOUD DATA",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GSBCr3LLkfMu99iJhiwERFdWzuFArqoV93og13pWc9mX/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "$LXCD is utility token used by members of Lex Cloud Data at www.homenetlink.com. This is still a work in progress",
+        "website": "http://www.homenetlink.com",
+      }
+    },
+    {
+      "chainId": 101,
       "address": "wyM6zDsEjuNrKmLHQtxfXADgwwDxbyxUKG2zd3ch7GN",
       "symbol": "SHARES",
       "name": "Zeeland Homes shares",
